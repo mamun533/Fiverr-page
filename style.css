@@ -1,0 +1,243 @@
+/* Default CSS Sectiin */
+.fix-width{
+	clear:both;
+	width:930px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
+.fix-width2{
+	clear:both;
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
+/* Header Section */
+.header {
+	text-align:center;
+	background:black;
+}
+.header img{
+	width:15px;
+}
+.envt {
+	display:inline-block;
+	color:#fff;
+	font-size:20px;
+	padding:5px 0;
+}
+.mrkt {
+	display:inline-block;
+	color:green;
+	font-size:20px;
+	padding:5px 0;
+}
+
+
+/* Bannee Section */
+.banner {
+	background-image:url("https://i.ibb.co/ZhJPDtW/Polish-20200706-112655475.jpg");
+	text-align:center;
+	color:#fff;
+}
+.banner .fix-width2 h1{
+	font-size:50px;
+	padding:20px;
+	box-sizing:content-box;
+}
+.banner .fix-width2  .para{
+	font-size:40px;
+}
+.banner .fix-width2  .para2{
+	display:inline-block;
+	font-size:30px;
+	font-weight:bold;
+	margin-right:10px;
+}
+.select{
+	padding:10px;
+	background-color:#ddd;
+	border-radius:5px;
+	color:#777;
+}
+.search {
+	display:inline-block;
+	width:500px;
+	padding:10px;
+	border-radius:5px;
+	margin-bottom:20px;
+}
+
+
+/* Content Section */
+.content{
+	text-align:center;
+	background-color:#eee;
+}
+.c-header{
+	font-size:50px;
+	padding:20px;
+	padding-top:40px;
+}
+.c-header2{
+	font-size:50px;
+	color:#555;
+}
+
+.c-item{
+	width:45%;
+	background-color:#fffffc;
+	padding:10px 5px;
+	display:inline-block;
+	margin:5px;
+}
+.c-i-header{
+
+}
+.c-i-para{
+
+}
+
+/* Portfolio Srction*/
+.p-item {
+	width:45%;
+	display:inline-block;
+}
+.p-item img{
+	width:100%;
+	margin:5px;
+}
+
+/* Community Section */
+.community{
+	background-color:pink;
+	padding-bottom:50px;
+}
+.cm-header {
+	text-align:center;
+	color:#fff;
+	font-size:50px;
+	padding-top:30px;
+}
+.cm-header2 {
+	text-align:center;
+	color:yellow;
+	font-size:45px;
+}
+
+.blog1 {
+	width:50%;
+	text-align:center;
+	display:inline-block;
+}
+.blog1 img{
+	width:50%;
+}
+.blog2 {
+	float:right;
+	width:50%;
+	text-align:center;
+	display:inline-block;
+}
+.blog2 img{
+	width:50%;
+}
+.para1 {
+	color:#fff;
+	font-size:30px;
+	font-weight:bold;
+}
+.para2 {
+	color:yellow;
+	font-size:25px;
+	font-weight:bold;
+}
+.para3 {
+	color:#fff;
+	font-size:25px;
+}
+
+.blogbtn{
+	text-decoration:none;
+	background-color:black;
+	color:yellow;
+	padding:10px 20px;
+	display:inline-block;
+	width:250px;
+	font-weight:bold;
+	font-size:25px;
+	border-radius:10px;
+}
+
+
+/* Joining Section */
+.joining{
+	background-color:#222;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.j-header {
+	color:#fff;
+	font-size:50px;
+}
+.j-header2 {
+	color:#ddd;
+	font-size:45px;
+}
+.signup{
+	text-decoration:none;
+	padding:30px;
+	background-color:green;
+	border-radius:5px;
+	display:inline-block;
+	width:600px;
+	color:#fff;
+	font-size:30px;
+	margin-top:30px;
+}
+
+hr{
+
+	background-color:#333;
+}
+/* Contact Section */
+.contact{
+	background-color:#333;
+	color:#fff;
+}
+.section{
+	text-align:left;
+	width:45%;
+	display:inline-block;
+	padding-top:25px;
+}
+.section p{
+	color:#fff;
+}
+.f-header{
+	color:#ddd;
+}
+
+.email{
+	width:100%;
+	background-color:#000;
+	border:none;
+	border-radius:5px;
+	padding:10px;
+	margin:10px 0;
+}
+.s-btn{
+	width:100%;
+	background-color:green;
+	border-radius:5px;
+	color:#fff;
+	border:none;
+	padding:5px;
+}
+
+footer {
+	background-color:#333;
+	color:#fff;
+	padding:20px;
+}
